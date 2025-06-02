@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Quel est le mot anglais pour « pomme » ?</text>
+    <option id="A">A. Apple</option>
+    <option id="B">B. Banana</option>
+    <option id="C">C. Orange</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Comment dit-on « chaise » en anglais ?</text>
+    <option id="A">A. Table</option>
+    <option id="B">B. Bed</option>
+    <option id="C">C. Chair</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel animal correspond au mot anglais « cat » ?</text>
+    <option id="A">A. Chien</option>
+    <option id="B">B. Chat</option>
+    <option id="C">C. Lapin</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Que signifie le mot « happy » ?</text>
+    <option id="A">A. Triste</option>
+    <option id="B">B. Heureux</option>
+    <option id="C">C. Fatigué</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel mot anglais signifie « voiture » ?</text>
+    <option id="A">A. Train</option>
+    <option id="B">B. Bike</option>
+    <option id="C">C. Car</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quel mot en anglais signifie « livre » ?</text>
+    <option id="A">A. Book</option>
+    <option id="B">B. Pen</option>
+    <option id="C">C. Bag</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Que veut dire le mot « cold » ?</text>
+    <option id="A">A. Chaud</option>
+    <option id="B">B. Froid</option>
+    <option id="C">C. Pluie</option>
+    <correct_answer>B</correct_answer>
+  </question>
+</quiz>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Quel est le pronom sujet dans la phrase « She is happy » ?</text>
+    <option id="A">A. She</option>
+    <option id="B">B. Is</option>
+    <option id="C">C. Happy</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quel est le temps utilisé dans la phrase « I eat apples » ?</text>
+    <option id="A">A. Present simple</option>
+    <option id="B">B. Past simple</option>
+    <option id="C">C. Future simple</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quelle est la forme négative de « He likes tea » ?</text>
+    <option id="A">A. He like not tea</option>
+    <option id="B">B. He doesn't like tea</option>
+    <option id="C">C. He don't like tea</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle est la bonne structure d’une phrase affirmative en anglais ?</text>
+    <option id="A">A. Sujet + verbe + complément</option>
+    <option id="B">B. Verbe + complément + sujet</option>
+    <option id="C">C. Complément + sujet + verbe</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Le mot « quickly » est un exemple de :</text>
+    <option id="A">A. Nom</option>
+    <option id="B">B. Adjectif</option>
+    <option id="C">C. Adverbe</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quel est le verbe auxiliaire pour poser une question au présent simple avec « you » ?</text>
+    <option id="A">A. Do</option>
+    <option id="B">B. Are</option>
+    <option id="C">C. Did</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Dans la phrase « They are going to school », quel mot est le verbe principal ?</text>
+    <option id="A">A. Are</option>
+    <option id="B">B. Going</option>
+    <option id="C">C. School</option>
+    <correct_answer>B</correct_answer>
+  </question>
+</quiz>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Comment demande-t-on « Comment ça va ? » en anglais ?</text>
+    <option id="A">A. What's your name?</option>
+    <option id="B">B. Where are you from?</option>
+    <option id="C">C. How are you?</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle est une réponse possible à « How are you? » ?</text>
+    <option id="A">A. I'm fine, thank you.</option>
+    <option id="B">B. I live in Paris.</option>
+    <option id="C">C. My favorite color is blue.</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Que signifie « I would like a coffee, please » ?</text>
+    <option id="A">A. Je bois du café souvent.</option>
+    <option id="B">B. Je voudrais un café, s'il vous plaît.</option>
+    <option id="C">C. Où est le café ?</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Comment demande-t-on son chemin en anglais ?</text>
+    <option id="A">A. What time is it?</option>
+    <option id="B">B. How old are you?</option>
+    <option id="C">C. Excuse me, where is the station?</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Que répond-on souvent à « Thank you » ?</text>
+    <option id="A">A. No, thanks</option>
+    <option id="B">B. You're welcome</option>
+    <option id="C">C. I'm sorry</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Dans quel lieu irais-tu pour acheter du pain en anglais ?</text>
+    <option id="A">A. Bakery</option>
+    <option id="B">B. Hospital</option>
+    <option id="C">C. Library</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle phrase est utile dans un restaurant ?</text>
+    <option id="A">A. I’m hungry</option>
+    <option id="B">B. Can I see the menu, please?</option>
+    <option id="C">C. I’m cold</option>
+    <correct_answer>B</correct_answer>
+  </question>
+</quiz>

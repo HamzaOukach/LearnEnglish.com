@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Que signifie « meeting » dans un contexte professionnel ?</text>
+    <option id="A">A. Une pause</option>
+    <option id="B">B. Une réunion</option>
+    <option id="C">C. Une tâche</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle phrase utilise une formule de politesse professionnelle ?</text>
+    <option id="A">A. What's up?</option>
+    <option id="B">B. I need this now!</option>
+    <option id="C">C. Could you please send me the file?</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Que signifie « deadline » ?</text>
+    <option id="A">A. Une ligne à dessiner</option>
+    <option id="B">B. Une date limite</option>
+    <option id="C">C. Une ligne de métro</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quel mot est couramment utilisé pour parler d’un poste dans une entreprise ?</text>
+    <option id="A">A. Position</option>
+    <option id="B">B. Location</option>
+    <option id="C">C. Station</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Que signifie « I am available for a call » ?</text>
+    <option id="A">A. Je suis disponible pour un appel</option>
+    <option id="B">B. Je suis en ligne</option>
+    <option id="C">C. J’attends un appel</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quelle formule est correcte pour terminer un e-mail professionnel ?</text>
+    <option id="A">A. Love</option>
+    <option id="B">B. See ya</option>
+    <option id="C">C. Best regards</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Comment dit-on « joindre un fichier » en anglais ?</text>
+    <option id="A">A. Attach a file</option>
+    <option id="B">B. Close a file</option>
+    <option id="C">C. Edit a file</option>
+    <correct_answer>A</correct_answer>
+  </question>
+</quiz>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Quel son correspond à la lettre « H » dans le mot « house » ?</text>
+    <option id="A">A. Aucun son</option>
+    <option id="B">B. Un son doux comme dans « heure »</option>
+    <option id="C">C. Un souffle comme dans « ha »</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Dans quel mot la lettre « e » finale est muette ?</text>
+    <option id="A">A. Name</option>
+    <option id="B">B. Red</option>
+    <option id="C">C. Better</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Comment se prononce le mot « think » ?</text>
+    <option id="A">A. Fink</option>
+    <option id="B">B. Sink</option>
+    <option id="C">C. Think (avec le son "th")</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Quelle syllabe est accentuée dans le mot « hotel » ?</text>
+    <option id="A">A. La première</option>
+    <option id="B">B. La deuxième</option>
+    <option id="C">C. Aucune</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel son font les lettres « ch » dans le mot « cheese » ?</text>
+    <option id="A">A. [k]</option>
+    <option id="B">B. [ʃ]</option>
+    <option id="C">C. [tʃ]</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Lequel de ces mots contient le son long [iː] ?</text>
+    <option id="A">A. Ship</option>
+    <option id="B">B. Sheep</option>
+    <option id="C">C. Sit</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Quelle phrase contient un mot avec un son "th" ?</text>
+    <option id="A">A. I have a dog</option>
+    <option id="B">B. This is my brother</option>
+    <option id="C">C. She likes music</option>
+    <correct_answer>B</correct_answer>
+  </question>
+</quiz>

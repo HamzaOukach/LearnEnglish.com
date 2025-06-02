@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Comment dit-on "Bonjour" en anglais ?</text>
+    <option id="A">A. Good night</option>
+    <option id="B">B. Hello</option>
+    <option id="C">C. Thanks</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Que signifie "Goodbye" ?</text>
+    <option id="A">A. Merci</option>
+    <option id="B">B. Bonjour</option>
+    <option id="C">C. Au revoir</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quelle est la première lettre de l’alphabet anglais ?</text>
+    <option id="A">A. Z</option>
+    <option id="B">B. A</option>
+    <option id="C">C. B</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Comment écrit-on le chiffre 3 en anglais ?</text>
+    <option id="A">A. Three</option>
+    <option id="B">B. Tree</option>
+    <option id="C">C. Free</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quelle est la traduction de la couleur "blue" ?</text>
+    <option id="A">A. Bleu</option>
+    <option id="B">B. Rouge</option>
+    <option id="C">C. Vert</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quel mot anglais est utilisé pour dire "Merci" ?</text>
+    <option id="A">A. Please</option>
+    <option id="B">B. Sorry</option>
+    <option id="C">C. Thank you</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Que signifie "My name is..." ?</text>
+    <option id="A">A. Je suis fatigué</option>
+    <option id="B">B. Mon nom est...</option>
+    <option id="C">C. J’ai faim</option>
+    <correct_answer>B</correct_answer>
+  </question>
+</quiz>

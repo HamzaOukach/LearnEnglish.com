@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question id="q1">
+    <text>Que signifie « essay » dans un contexte académique ?</text>
+    <option id="A">A. Une dissertation</option>
+    <option id="B">B. Un exercice sportif</option>
+    <option id="C">C. Une présentation orale</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q2">
+    <text>Quelle est la traduction correcte de « lecture » en anglais académique ?</text>
+    <option id="A">A. Livre</option>
+    <option id="B">B. Conférence ou cours magistral</option>
+    <option id="C">C. Devoir</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q3">
+    <text>Quel mot signifie « faire une présentation » ?</text>
+    <option id="A">A. Write</option>
+    <option id="B">B. Present</option>
+    <option id="C">C. Read</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q4">
+    <text>Que signifie l’expression « take notes » ?</text>
+    <option id="A">A. Passer un examen</option>
+    <option id="B">B. Lire un livre</option>
+    <option id="C">C. Prendre des notes</option>
+    <correct_answer>C</correct_answer>
+  </question>
+
+  <question id="q5">
+    <text>Quel mot désigne un test ou une évaluation ?</text>
+    <option id="A">A. Class</option>
+    <option id="B">B. Exam</option>
+    <option id="C">C. Break</option>
+    <correct_answer>B</correct_answer>
+  </question>
+
+  <question id="q6">
+    <text>Quel mot anglais signifie « bibliographie » ?</text>
+    <option id="A">A. References</option>
+    <option id="B">B. Contents</option>
+    <option id="C">C. Biography</option>
+    <correct_answer>A</correct_answer>
+  </question>
+
+  <question id="q7">
+    <text>Que signifie « revise » dans un contexte d'étude ?</text>
+    <option id="A">A. Corriger un document</option>
+    <option id="B">B. Revoir ou réviser une leçon</option>
+    <option id="C">C. Créer un résumé</option>
+    <correct_answer>B</correct_answer>
+  </question>
+</quiz>
