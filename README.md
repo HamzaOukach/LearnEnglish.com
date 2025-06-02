@@ -34,5 +34,4 @@ define('DB_NAME', 'projet');
 - XAMPP (Apache + MySQL)
 
 
-- **Nom et prénoms des participants** : Oukach Hamza, Ait Jaakike Zakaria, El Aidoudi Youssef
 
