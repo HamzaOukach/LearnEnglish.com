@@ -1,37 +1,42 @@
-# README - Projet LearnEnglish.com
+## 📚 LearnEnglish.com
 
-## Informations sur la base de données (Backend)
+A web platform for learning English, built in PHP with an MVC architecture. Uses a MySQL database to manage users, courses, videos, certificates, and quizzes, with a dynamic interface built in HTML/CSS/JS, hosted locally via XAMPP.
 
-Le projet utilise une base de données MySQL pour stocker toutes les informations relatives aux utilisateurs, cours, vidéos, certificats, quizs et progression.
+### Features
+- User accounts and progress tracking
+- Course and video management
+- Quizzes and certificate generation
+- MVC architecture (Model / View / Controller)
 
-Voici les informations d'accès à la base de données :
+### Tech Stack
+- **Backend:** PHP 8
+- **Database:** MySQL
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Local server:** XAMPP (Apache + MySQL)
 
-- **Hôte** : `localhost`
-- **Nom d'utilisateur** : `root`
-- **Mot de passe** : *(aucun, champ vide)*
-- **Nom de la base de données** : `projet`
+### Getting Started
 
-### Détails supplémentaires
-- Le projet utilise **XAMPP** comme serveur local.
-- Aucun mot de passe n'est requis pour l'accès MySQL sur l'environnement de développement.
-- Les constantes de connexion à la base de données sont définies dans le fichier `Config/configBDD.php` :
+**Prerequisites:**
+- XAMPP installed (Apache + MySQL)
+- PHP 8
 
-```php
+**Setup:**
+
+1. Clone the repository into your XAMPP `htdocs` folder.
+
+2. Start Apache and MySQL from the XAMPP control panel.
+
+3. Create a MySQL database named `projet`.
+
+4. Database connection settings are defined in `Config/configBDD.php`:
+
 <?php
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'projet');
 ?>
-```
 
+5. Open the project in your browser via:
 
-## Technologies utilisées
-- PHP 8
-- MySQL
-- HTML5 / CSS3
-- JavaScript
-- XAMPP (Apache + MySQL)
-
-
-
+http://localhost/LearnEnglish.com/
