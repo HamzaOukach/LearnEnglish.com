@@ -39,4 +39,4 @@ define('DB_NAME', 'projet');
 
 5. Open the project in your browser via:
 
-http://localhost/LearnEnglish.com/
+ http://localhost/LearnEnglish.com/
