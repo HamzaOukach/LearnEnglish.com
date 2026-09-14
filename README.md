@@ -30,13 +30,12 @@ A web platform for learning English, built in PHP with an MVC architecture. Uses
 
 4. Database connection settings are defined in `Config/configBDD.php`:
 
+```php
 <?php
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'projet');
 ?>
-
-5. Open the project in your browser via:
-
- http://localhost/LearnEnglish.com/
+```
+5. Open the project in your browser via:  http://localhost/LearnEnglish.com/
